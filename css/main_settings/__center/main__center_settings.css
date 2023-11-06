@@ -1,0 +1,7 @@
+.main__center_settings {
+    flex: 5;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

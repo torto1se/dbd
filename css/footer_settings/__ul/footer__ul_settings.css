@@ -1,0 +1,11 @@
+.footer__ul_settings{
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+}
+
+.footer__ul_settings{
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+}

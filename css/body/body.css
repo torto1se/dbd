@@ -1,0 +1,26 @@
+*{
+    margin:0%; 
+    list-style: none;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+
+body{
+   background-image: url(https://assets.deadbydaylight.com/DBD_Website_Keyart_d3b7a9628d.jpg);
+   background-attachment: fixed;
+   background-repeat: no-repeat;
+   background-size: cover;
+   color:white;
+   font-family: 'Montserrat';
+}
+
+.body{
+    background-image: url(https://images.wallpaperscraft.ru/image/single/poverhnost_temnyj_fon_50754_1920x1080.jpg);
+   background-attachment: fixed;
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+
+html, body {
+    overflow: hidden;
+  }
