@@ -1,0 +1,6 @@
+.coming_settings{
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    padding:400px;   
+}

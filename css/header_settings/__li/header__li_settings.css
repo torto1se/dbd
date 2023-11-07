@@ -1,0 +1,7 @@
+.header__li_settings{
+    display: table-cell;
+    vertical-align: middle;
+    height: 100%;
+    color:rgb(255, 255, 255);
+    font-size: 16px;
+}

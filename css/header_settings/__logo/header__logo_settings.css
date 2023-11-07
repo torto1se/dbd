@@ -3,8 +3,6 @@
     display: table;
     float:left;
     padding-right: 150px;
+    padding-top: 20px;
 }
 
-.header__logo_settings h1 span{
-    font-weight: 800;
-}

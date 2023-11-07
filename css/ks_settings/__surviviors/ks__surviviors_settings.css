@@ -1,0 +1,7 @@
+.ks__surviviors_settings {
+    flex:5;
+    display: flex;
+    flex-direction: column;
+    padding-top: 2%;
+    padding-left: 4%;
+}
