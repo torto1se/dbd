@@ -28,14 +28,13 @@ new Vue({
     }
 });
   
-
 new Vue({
     el: '#auto-table',
     data: {
         items: []
     },
     created: function() {
-        fetch('table.json') 
+        fetch('js/calc&table/table.json') 
             .then(response => response.json())
             .then(data => {
                 this.items = data;
